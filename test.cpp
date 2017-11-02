@@ -2,7 +2,8 @@
 
 #include <iostream>
 
-  using namespace std;
+using namespace std;
+
 void main ()
 {
   cout << "t&s training git repositery" << endl;
